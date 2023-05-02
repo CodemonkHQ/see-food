@@ -1,4 +1,4 @@
-# See-Food Python Project
+# See-Food
 
 This Python project was developed as a reference to a blog post that explains how to use Flet for functional programming in Python.
 
