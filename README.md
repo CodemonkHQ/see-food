@@ -1,6 +1,6 @@
 # See-Food
 
-This Python project was developed as a reference to a blog post that explains how to use Flet for functional programming in Python.
+This Python project was developed as a reference to a blog post that explains how to use Flet for functional programming in Python. And it is inspired by HBO television show "Silicon Valley." In the show, the one of the characters name 'Jian-Yang' develop a mobile app called "SeeFood" using a similar concept.
 
 The project is designed to identify whether an image contains a hotdog or not. It uses a TensorFlow trained model to identify whether a given image contains a hotdog.
 
