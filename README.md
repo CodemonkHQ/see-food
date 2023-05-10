@@ -52,7 +52,7 @@ To use the application, follow these steps:
    ```
 
 ## Preview 
-<img src="https://raw.githubusercontent.com/CodemonkHQ/see-food/2e56c2adea03cb40d2d281c891c38c5ef17b94cb/assets/extras/preview.gif" alt="Screenshot 4" width="600"/> 
+<img src="https://raw.githubusercontent.com/CodemonkHQ/see-food/80da92d81c7dd25c74e14527d95a7f5b00cce729/assets/extras/preview.gif" alt="Screenshot 4" width="600"/> 
 
 
 
