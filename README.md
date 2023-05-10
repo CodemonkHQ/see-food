@@ -51,6 +51,11 @@ To use the application, follow these steps:
    python main.py
    ```
 
+## Preview 
+<img src="https://raw.githubusercontent.com/CodemonkHQ/see-food/2e56c2adea03cb40d2d281c891c38c5ef17b94cb/assets/extras/preview.gif" alt="Screenshot 4" width="600"/> 
+
+
+
 ## Project Structure
 
 The project has a simple directory structure:
