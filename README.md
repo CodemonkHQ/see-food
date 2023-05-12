@@ -85,6 +85,24 @@ see-food/
 - `LICENSE`: This file contains the license for the project.
 - `README.md`: This file contains information about the project.
 
+## Project Attribution
+
+The 'label_dog' TensorFlow model used in this project was originally developed by VPanjeta. You can find the original project [here](https://github.com/VPanjeta/hotdog-or-not-hotdog).
+
+The 'label_dog' model is released under the license specified in VPanjeta's repository. Please refer to the original project for detailed license information.
+
+Modifications:
+- No modifications have been made to the 'label_dog' TensorFlow model. It is used as-is in this project.
+
+Acknowledgments:
+- We would like to express our gratitude to VPanjeta for developing the 'label_dog' model and making it available for public use.
+
+
+## Contributor Guidelines
+### Git
+* See-food follows the [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) workflow for development. All the development happens in the 'develop' branch.
+* For commits, generally follow the [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/).
+
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
