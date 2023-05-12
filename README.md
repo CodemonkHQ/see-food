@@ -1,10 +1,17 @@
-# See-Food
+# SeeFood
 
-This Python project was developed as a reference to a blog post that explains how to use Flet for functional programming in Python. And it is inspired by HBO television show "Silicon Valley." In the show, the one of the characters name 'Jian-Yang' develop a mobile app called "SeeFood" using a similar concept.
+SeeFood is a hotdog identifying app which utilises Machine Learning to identify whether a given image is hotdog or not. The app concept is heavily inspired by HBO's Silicon Valley series wherein the character Jìan-Yáng develops a similar mobile app for his startup.
 
-The project is designed to identify whether an image contains a hotdog or not. It uses a TensorFlow trained model to identify whether a given image contains a hotdog.
+SeeFood as a project was developed to explore and showcase the potential of [Flet](https://flet.dev) framework. This project is an accompaniment to the blog '**[Flet: Power of your favourite language + Flutter UI](https://codemonk.in/blog/flet-power-of-your-favorite-language-flutter-ui/)**'.
 
-## Usage
+
+# Getting started
+
+## Dependencies
+SeeFood requires Python 3.7 or above.
+
+
+## Installation instructions
 
 To use the application, follow these steps:
 
@@ -51,9 +58,12 @@ To use the application, follow these steps:
    python main.py
    ```
 
-## Preview 
-<img src="https://raw.githubusercontent.com/CodemonkHQ/see-food/80da92d81c7dd25c74e14527d95a7f5b00cce729/assets/extras/preview.gif" alt="Screenshot 4" width="600"/> 
 
+## Usage
+
+Upload any hotdog image or any random image by clicking the 'Upload File' button on the UI and see the magic yourself.
+
+<img src="https://raw.githubusercontent.com/CodemonkHQ/see-food/80da92d81c7dd25c74e14527d95a7f5b00cce729/assets/extras/preview.gif" alt="Screenshot 4" width="600"/> 
 
 
 ## Project Structure
