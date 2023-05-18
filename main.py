@@ -18,10 +18,13 @@ def main(page: flet.Page):
     intro_text1 = flet.Text("See Food", size=24, color="black", weight="bold")
     intro_text2 = flet.Text("We help you to identify hot dogs using our proprietary algorithm,\n"
                        "See Food is built with Python and power of Flet.\n"
-                       "Built with 💕 in India\n\n"
+                       "\n"
                        "Join our journey to make the world a better place\n", size=13, color=flet.colors.BLUE_GREY_800,
                        weight="w400",
                        )
+    
+    footer_text= flet.Container(flet.Text("Built with 💕 in India\n",size=13, color=flet.colors.BLUE_GREY_800,
+                       weight="w400",) ,padding=16,)
 
     intro_text = flet.Container(flet.Column(
         [
@@ -94,6 +97,7 @@ def main(page: flet.Page):
                 intro_container,
                 loading_text,
                 button,
+                footer_text
              
             ],
             wrap=True,
